@@ -1,0 +1,6 @@
+{
+    "cmake.configureArgs": [
+        "-DUSE_SYSTEM_SRTP=1",
+        "-DBUILD_SHARED_LIBS=OFF"
+    ]
+}
